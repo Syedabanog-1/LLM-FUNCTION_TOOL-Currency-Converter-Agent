@@ -38,4 +38,12 @@ Final result display with success or error message
 
 ✅ Minimalist and functional UI
 
-200 USD to PKR TODAYS DOLLAR RATE USD TO PKR EUR to PKR
+
+
+![TODAYS DOLLAR RATE](https://github.com/user-attachments/assets/4039b887-e3e5-401d-9d60-8a93afb1566e)
+![USD TO PKR](https://github.com/user-attachments/assets/e15a2287-92ca-4599-aec5-3b525de24c48)
+![EUR to PKR](https://github.com/user-attachments/assets/b9748273-45b6-48e6-bc51-c4b413474c84)
+![200 USD to PKR](https://github.com/user-attachments/assets/01e60cff-2bcc-4da5-8903-9077a6049a55)
+![GBP in PKR](https://github.com/user-attachments/assets/eda9045a-d019-462b-b536-1309fc8a7352)
+![Dollar rate in PKR](https://github.com/user-attachments/assets/07bae5a7-b808-4985-b767-b94598af889f)
+![PKR rate in given Currency](https://github.com/user-attachments/assets/95a624b5-7ad3-41d6-80db-100daf67431a)
